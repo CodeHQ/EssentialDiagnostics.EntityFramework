@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EssentialDiagnostics.EntityFramework</id>
+    <version>1.0.0</version>
+    <title>EssentialDiagnostics.EntityFramework</title>
+    <authors>Craig Pretorius</authors>
+    <owners>Code HQ</owners>
+    <description>
+      Automatically creates tables and stored procedures for Essential Diagnostics (https://essentialdiagnostics.codeplex.com/) using Entity Framework
+    </description>
+    <projectUrl>https://github.com/CodeHQ/EssentialDiagnostics.EntityFramework</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/CodeHQ/EssentialDiagnostics.EntityFramework/blob/master/LICENSE</licenseUrl>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Code HQ (Pty) Ltd 2016</copyright>
+    <tags>Entity Framework Essential Diagnostics</tags>
+  </metadata>
+</package>

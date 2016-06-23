@@ -1,0 +1,1 @@
+# EssentialDiagnostics.EntityFramework
